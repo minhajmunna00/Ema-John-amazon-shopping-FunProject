@@ -16,3 +16,6 @@
 .header a:hover{
     color:yellow;
 }
+.btn-logout{
+    margin-left:10px;
+}
